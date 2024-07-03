@@ -1,0 +1,2 @@
+# maxbot
+A discord bot!
