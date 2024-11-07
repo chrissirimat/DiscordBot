@@ -1,2 +1,2 @@
 # maxbot
-A discord bot!
+A work in progress discord bot
