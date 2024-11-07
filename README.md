@@ -1,6 +1,6 @@
 # maxbot
-# Work In Progress Discord Bot
+Work In Progress Discord Bot
 
-## Current Features Include:
-- **Moderation**
-- **Wordle**
+Current Features Include:
+*Moderation
+*Wordle*
